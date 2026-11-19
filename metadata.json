@@ -1,0 +1,6 @@
+{
+  "name": "Skill Buddy",
+  "description": "Practical real-world courses, video lessons, and hands-on checklists built for college graduates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
